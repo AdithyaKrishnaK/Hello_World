@@ -2,6 +2,6 @@
 'use strict';
 
 
-module.exports = function(number, locale) {
+module.exports = function() {
     console.log("Hello World");
 };
