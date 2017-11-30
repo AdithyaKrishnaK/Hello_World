@@ -21,6 +21,6 @@ You should find 'Hello World' printed in the console
 
 K Adithya Krishna
 
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
