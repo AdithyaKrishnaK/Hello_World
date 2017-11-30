@@ -1,6 +1,6 @@
 {
   "name": "halloworld",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A module that outputs \"Hello World\"",
   "main": "index.js",
   "scripts": {
